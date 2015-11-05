@@ -1,0 +1,55 @@
+@import 'colors';
+
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+
+.page-heading{
+    background-color: $primary;
+    color: $text;
+    height: 200px;
+    padding: 50px;
+    text-align: center;
+
+    h1{
+        color: $text-light;
+    }
+}
+
+.bg-white{
+    background-color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bg-blue{
+    background-color: $primary;
+    color: $text-light;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.spacing{
+    height: 5px;
+}
+
+.panel{
+    border-radius: 0 !important;
+
+    .panel-heading{
+        background-image: none !important;
+        border-radius: 0 !important;
+    }
+}
+
+.btn{
+    border-radius: 0 !important;
+}
+
+.footer{
+    background-color: $primary-light;
+}
+
+.fixed-height{
+    height: 800px;
+}

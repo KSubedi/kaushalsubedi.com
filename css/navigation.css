@@ -1,0 +1,17 @@
+.navigation {
+  background-color: #4BA8F3;
+  color: #ffffff; }
+  .navigation h3 {
+    padding-bottom: 5px; }
+  .navigation .menu ul {
+    list-style-type: none;
+    float: right; }
+    .navigation .menu ul li {
+      padding-top: 20px; }
+      .navigation .menu ul li a {
+        margin-left: 10px;
+        font-size: 18px;
+        color: #ffffff; }
+      .navigation .menu ul li a:hover {
+        color: #E1E0E9;
+        text-decoration: none; }

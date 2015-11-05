@@ -1,0 +1,19 @@
+{
+  "name": "kaushalsubedi.com",
+  "version": "1.0.0",
+  "authors": [
+    "Kaushal Subedi <kaushal@wireshock.com>"
+  ],
+  "license": "NA",
+  "homepage": "https://kaushalsubedi.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}

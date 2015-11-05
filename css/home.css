@@ -1,0 +1,29 @@
+.intro {
+  background-color: #3386EE;
+  color: #E1E0E9;
+  padding: 50px;
+  text-align: center; }
+  .intro .img-profile {
+    width: 200px;
+    height: 200px; }
+  .intro h1 {
+    color: #ffffff;
+    margin-top: 60px; }
+  .intro .fa {
+    font-size: 12px;
+    margin-right: 5px; }
+
+.skill-list {
+  list-style: none;
+  font-size: 18px; }
+  .skill-list li {
+    padding-bottom: 10px; }
+    .skill-list li .fa {
+      color: #4BA8F3; }
+
+.about-me {
+  font-size: 18px; }
+
+.experience {
+  font-size: 75px;
+  color: #E1E0E9; }

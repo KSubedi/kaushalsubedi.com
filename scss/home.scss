@@ -1,0 +1,46 @@
+@import 'colors';
+
+// Header
+.intro{
+    background-color: $primary;
+    color: $text;
+    padding: 50px;
+    text-align: center;
+
+    .img-profile{
+        width: 200px;
+        height: 200px;
+    }
+
+    h1{
+        color: $text-light;
+        margin-top: 60px;
+    }
+
+    .fa{
+        font-size: 12px;
+        margin-right: 5px;
+    }
+}
+
+.skill-list {
+    list-style:none;
+    font-size: 18px;
+
+    li{
+        padding-bottom: 10px;
+
+        .fa{
+            color: $primary-light;
+        }
+    }
+}
+
+.about-me{
+    font-size: 18px;
+}
+
+.experience{
+    font-size: 75px;
+    color: $text;
+}
