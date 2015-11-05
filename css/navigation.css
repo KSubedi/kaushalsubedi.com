@@ -15,3 +15,11 @@
       .navigation .menu ul li a:hover {
         color: #E1E0E9;
         text-decoration: none; }
+  .navigation .mobile-menu {
+    float: none !important;
+    margin-left: -8%; }
+    .navigation .mobile-menu li {
+      padding-top: 0px !important; }
+    .navigation .mobile-menu a {
+      margin-left: 5px !important;
+      margin-right: 5px !important; }

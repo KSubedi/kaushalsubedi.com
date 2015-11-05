@@ -29,4 +29,20 @@
             }
         }
     }
+
+    .mobile-menu{
+        float: none !important;
+        margin-left: -8%;
+
+
+        li{
+            padding-top: 0px !important;
+
+        }
+
+        a{
+            margin-left: 5px !important;
+            margin-right: 5px !important;
+        }
+    }
 }
