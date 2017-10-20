@@ -5,7 +5,8 @@
   text-align: center; }
   .intro .img-profile {
     width: 200px;
-    height: 200px; }
+    height: 200px;
+    object-fit: cover; }
   .intro h1 {
     color: #ffffff;
     margin-top: 60px; }
